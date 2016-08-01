@@ -16,8 +16,8 @@ And lo, you can build a Slack Bot, too! With our API and this nifty repository, 
 3. This is a Node.js project, so you’ll need to install the various dependencies by running:
     npm install
 4. Edit `package.json` to give your bot a name and update the GitHub URLs to reflect the location of your fork in GitHub.
-5. Go to https://my.slack.com/apps/new/A0F7YS25R-bots and pick a name for your new bot.
-6. Once you’ve clicked “Add integration,” you’ll be taken to a page where you can further customize your bot. Of importance is the bot token—take note of it now.
+5. Go to https://my.slack.com/apps/new/A0F7YS25R-bots and pick a name for your new bot. (Reminder: usernames, even for bots must be all lowercase!)
+6. Once you’ve clicked “Add bot integration,” you’ll be taken to a page where you can further customize your bot. Of importance is the bot token—take note of it now.
 7. Once you have the token, you can run your bot easily:
 
     ```bash
